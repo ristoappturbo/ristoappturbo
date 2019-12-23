@@ -440,7 +440,7 @@ a:focus {
 }
 
 #contact {
-    background: url(../img/cover/contact.jpg);
+    background: url(../img/cover/Ulotkas1.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -467,9 +467,9 @@ a:focus {
 
 #footer {
     padding: 4rem 0;
-    color: #ccc;
+    color: #fff;
     text-align: center;
-    background: #233b6f;
+    background: #fff;
 }
 
 #footer a,
