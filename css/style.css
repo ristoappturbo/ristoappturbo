@@ -235,12 +235,13 @@ a:focus {
 }
 
 #home {
-    padding: 0;
+    /* padding: 0; */
     color: #fff;
-    background-image: url(../img/cover/home.jpg);
+    display: flex; 
+    background-size: 100% ;
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+
+    background-image: url(../img/ico/home.svg);
 }
 
 #home h1 {

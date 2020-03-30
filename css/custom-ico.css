@@ -1,0 +1,28 @@
+
+
+.custom_ico {
+    display: flex; 
+    size: 100%;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    min-height: 50px;
+    /* display: inline-block; */
+}
+
+
+.icon_pos {
+    background: url(../img/ico/Integracja_POS.svg);
+}
+
+.icon_kadra {
+    background: url(../img/ico/Optymalizacja_kadry.svg);
+}
+
+.icon_platnosci {
+    background: url(../img/ico/Platnosci_online.svg);
+}
+
+
+.icon_zmamowienie {
+    background: url(../img/ico/Szybkie_zamawianie.svg);
+}
