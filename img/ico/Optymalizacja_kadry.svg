@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="207.52942mm"
-   height="28.805872mm"
-   viewBox="0 0 207.52942 28.805872"
+   width="56.205368mm"
+   height="36.433563mm"
+   viewBox="0 0 56.205368 36.433563"
    version="1.1"
    id="svg5502"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Optymalizacja_kadry.svg">
   <defs
      id="defs5496">
@@ -108,19 +108,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="573.94956"
-     inkscape:cy="7.8008314"
+     inkscape:cx="441.79521"
+     inkscape:cy="22.79223"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-top="1"
-     fit-margin-left="1"
-     fit-margin-right="1"
-     fit-margin-bottom="1"
+     fit-margin-top="5"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="5"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5499">
@@ -138,7 +138,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(160.24721,-149.54944)">
+     transform="translate(169.24721,-145.88822)">
     <circle
        style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79296124"
        id="path3388-1-1-1"
@@ -147,45 +147,6 @@
        r="37.027905"
        transform="matrix(0.35277451,-0.00151798,0.00151798,0.35277451,-439.71102,211.34656)"
        clip-path="url(#clipPath19810)" />
-    <text
-       id="text16612-8-6"
-       y="-155.61856"
-       x="901.54309"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.00000381px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-       xml:space="preserve"
-       transform="matrix(0.35277777,0,0,0.35277777,-439.71102,211.34656)"
-       clip-path="url(#clipPath19806)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.99999809px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;stroke-width:0.75"
-         y="-155.61856"
-         x="901.54309"
-         id="tspan16610-4-2"
-         sodipodi:role="line">OPTYMALIZACJA KADRY:</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.10965729px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50228459"
-       x="897.13776"
-       y="-99.69516"
-       id="text16313-4-5-8"
-       transform="matrix(0.35277777,0,0,0.35277777,-439.71102,211.34656)"
-       clip-path="url(#clipPath19802)"><tspan
-         sodipodi:role="line"
-         id="tspan16311-5-2-6"
-         x="897.13776"
-         y="-99.69516"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75195694px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';stroke-width:0.50228459">Możliwość obsłużenia większej ilości stolików</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.10965729px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50228459"
-       x="910.15521"
-       y="-128.33023"
-       id="text16317-4-8-0"
-       transform="matrix(0.35277777,0,0,0.35277777,-439.71102,211.34656)"
-       clip-path="url(#clipPath19798)"><tspan
-         sodipodi:role="line"
-         id="tspan16315-7-5-6"
-         x="910.15521"
-         y="-128.33023"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75195694px;font-family:Calibri;-inkscape-font-specification:'Calibri Italic';stroke-width:0.50228459">Obsługa nie zajmuje się przyjmowaniem zamówień i płatności</tspan></text>
     <circle
        style="fill:#2ad4ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16822919"
        id="path3388-1-2-3-4-5"
